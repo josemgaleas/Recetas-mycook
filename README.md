@@ -6,8 +6,8 @@ Las recetas de este repositorio son todas sacadas del manual de MyCook, pero ada
 Recetas:
 
 ## Postres
-  -Trufas
-  -Tarta de zanahoria
+  - Trufas
+  - Tarta de zanahoria
  
 ## Primeros platos
-  -Salmorejo
+  - Salmorejo
